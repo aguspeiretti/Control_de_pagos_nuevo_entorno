@@ -11,6 +11,7 @@
     "adm-zip": "^0.5.9",
     "lucide-react": "^0.479.0",
     "react": "^18.2.0",
+    "react-datepicker": "^8.4.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "sweetalert2": "^11.17.2",
